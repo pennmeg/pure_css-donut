@@ -1,0 +1,52 @@
+.sprinkle--1 {
+  top: 15%;
+  left: 15%;
+}
+.sprinkle--2 {
+  top: 22%;
+  left: 25%;
+  transform: rotate(80deg);
+}
+/* --- Sprinle Set Up --- */
+.sprinkle {
+  position: absolute;
+}
+.small {
+  width: 2%;
+  height: 4%;
+  border-radius: 30%;
+}
+.med {
+  width: 2%;
+  height: 5%;
+  border-radius: 30%;
+}
+.large {
+  width: 2%;
+  height: 6%;
+  border-radius: 30%;
+}
+.yellow {
+  background-color: rgb(255, 223, 75);
+}
+.white {
+  background-color: rgb(255, 255, 255);
+}
+.pink {
+  background-color: rgb(255, 37, 168);
+}
+.red {
+  background-color: rgb(224, 5, 30);
+}
+.orange {
+  background-color: rgb(255, 134, 31);
+}
+.purple {
+  background-color: rgb(72, 46, 136);
+}
+.green {
+  background-color: rgb(30, 86, 55);
+}
+.blue {
+  background-color: rgb(20, 115, 203);
+}
