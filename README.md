@@ -1,8 +1,9 @@
-# Pure CSS Challenge: Laptop/Desk Flatlay 2.0
+# Pure CSS Challenge: Donut with Sprinkles
 
 November 13, 2018 
 
 ## Other Pure CSS Images
+* https://github.com/pennmeg/pure_css_desk-flatlay
 * https://github.com/pennmeg/pure_css_pixel_heart
 * https://github.com/pennmeg/pure_css_image
 * https://github.com/pennmeg/pure_css_laptop
