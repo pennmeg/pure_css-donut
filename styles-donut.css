@@ -1,0 +1,70 @@
+/* --- Initial Set Up --- */
+body {
+  background-color: rgb(114,179,229);
+}
+#box {
+  position: relative;
+  margin: 4em auto;
+  height: 30em;
+  width: 30em;
+}
+/* --- Donut and Icing --- */
+.donut {
+  position: absolute;
+  border-radius: 100%;
+}
+.donut--1 {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(247, 209, 181);
+}
+.donut--2 {
+  top: 1%;
+  left: 1.5%;
+  width: 98%;
+  height: 98%;
+  background-color: rgb(227, 136, 74);
+}
+.icing {
+  top: 1.5%;
+  left: 4%;
+  width: 95%;
+  height: 95%;
+  background-color: rgb(245, 86, 168);
+}
+/* --- Shadows --- */
+.shadow {
+  top: 5%;
+  left: 10%;
+  width: 98%;
+  height: 98%;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: -1;
+}
+.donut--shadow__hole {
+  top: 35%;
+  left: 35%;
+  height: 30%;
+  width: 30%;
+}
+.hole--1 {
+  background-color: rgb(114, 179, 229);
+}
+.hole--2 {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+/* --- Donut Hole --- */
+.donut--1__hole {
+  top: 34%;
+  left: 34%;
+  height: 32%;
+  width: 32%;
+  background-color: rgb(247, 209, 181);
+}
+.donut--2__hole {
+  top: 33%;
+  left: 32%;
+  height: 35%;
+  width: 35%;
+  background-color: rgb(227, 136, 74);
+}
