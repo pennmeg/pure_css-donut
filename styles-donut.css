@@ -28,6 +28,9 @@ body {
   color: rgb(114,179,229);
   background-color: white;
 }
+#button--sprinkles:focus {
+  outline: 0;
+}
 /* --- Donut and Icing --- */
 .donut {
   position: absolute;
