@@ -320,6 +320,40 @@
   left: 41%;
   transform: rotate(20deg);
 }
+.s--66 {
+  top: 30%;
+  left: 49%;
+  transform: rotate(90deg);
+}
+.s--67 {
+  top: 25%;
+  left: 67%;
+}
+.s--68 {
+  top: 23%;
+  left: 64%;
+  transform: rotate(320deg);
+}
+.s--69 {
+  top: 25%;
+  left: 60%;
+}
+.s--70 {
+  top: 24%;
+  left: 62%;
+  transform: rotate(340deg);
+}
+.s--71 {
+  top: 14%;
+  left: 63%;
+  transform: rotate(300deg);
+}
+.s--72 {
+  top: 16%;
+  left: 62%;
+  transform: rotate(340deg);
+
+}
 /* --- Sprinle Set Up --- */
 .sprinkle {
   position: absolute;
