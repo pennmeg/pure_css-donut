@@ -1,8 +1,11 @@
 # Pure CSS Challenge: Donut with Sprinkles
+## Plus Javascript !
 
 ![Final Version: Donut with Sprinks](pure_css-donut.png)
 
-November 13-14, 2018 
+November 13-14, 2018 | Decided to practice CSS Animations and Javascipt
+
+When you press the "Add Sprinkles" button, there are sprinkles dropped onto the donut
 
 ## Other Pure CSS Images
 * https://github.com/pennmeg/pure_css_desk-flatlay
