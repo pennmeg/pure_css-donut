@@ -1,11 +1,87 @@
-.sprinkle--1 {
+.s--1 {
   top: 15%;
   left: 15%;
 }
-.sprinkle--2 {
+.s--2 {
   top: 22%;
   left: 25%;
   transform: rotate(80deg);
+}
+.s--3 {
+  top: 19%;
+  left: 18%;
+  transform: rotate(20deg);
+}
+.s--4 {
+  top: 23%;
+  left: 14%;
+  transform: rotate(310deg);
+}
+.s--5 {
+  top: 27%;
+  left: 13%;
+  transform: rotate(40deg);
+}
+.s--6 {
+  top: 30%;
+  left: 14%;
+  transform: rotate(320deg);
+}
+.s--7 {
+  top: 27%;
+  left: 30%;
+  transform: rotate(20deg);
+}
+.s--8 {
+  top: 33.5%;
+  left: 26%;
+  transform: rotate(70deg);
+}
+.s--9 {
+  top: 31%;
+  left: 32%;
+  transform: rotate(70deg);
+}
+.s--10 {
+  top: 24%;
+  left: 34%;
+  transform: rotate(310deg);
+}
+.s--11 {
+  top: 35%;
+  left: 33%;
+  transform: rotate(310deg);
+  z-index: 1;
+}
+.s--12 {
+  top: 36%;
+  left: 30%;
+  transform: rotate(10deg);
+  z-index: 1;
+}
+.s--13 {
+  top: 38%;
+  left: 33%;
+  transform: rotate(240deg);
+  z-index: 1;
+}
+.s--14 {
+  top: 35%;
+  left: 10%;
+  transform: rotate(110deg);
+}
+.s--15 {
+  top: 36%;
+  left: 15%;
+  transform: rotate(110deg);
+}
+.s--16 {
+  top: 36%;
+  left: 21%;
+  transform: rotate(90deg);
+}
+.s--17 {
+  top: 42%;
 }
 /* --- Sprinle Set Up --- */
 .sprinkle {
