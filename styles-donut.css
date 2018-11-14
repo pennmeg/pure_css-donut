@@ -54,6 +54,7 @@ body {
   height: 34%;
   width: 34%;
   background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1;
 }
 .donut--shadow__cresent {
   top: 35%;
