@@ -83,9 +83,198 @@
 .s--17 {
   top: 42%;
 }
+.s--18 {
+  top: 52%;
+  left: 2%;
+  transform: rotate(320deg);
+}
+.s--19 {
+  top: 55%;
+  left: 6%;
+  transform: rotate(310deg);
+}
+.s--20 {
+  top: 50%;
+  left: 22%;
+  transform: rotate(10deg);
+}
+.s--21 {
+  top: 52%;
+  left: 12%;
+  transform: rotate(310deg);
+}
+.s--22 {
+  top: 50%;
+  left: 15%;
+  transform: rotate(340deg);
+}
+.s--23 {
+  top: 54%;
+  left: 26%;
+  transform: rotate(350deg);
+}
+.s--24 {
+  top: 58%;
+  left: 30%;
+  transform: rotate(310deg);
+  z-index: 1;
+}
+.s--25 {
+  top: 62%;
+  left: 20%;
+  transform: rotate(350deg);
+}
+.s--26 {
+  top: 64%;
+  left: 6%;
+  transform: rotate(30deg);
+}
+.s--27 {
+  top: 69%;
+  left: 10%;
+  transform: rotate(80deg);
+}
+.s--28 {
+  top: 74%;
+  left: 10%;
+  transform: rotate(320deg);
+}
+.s--29 {
+  top: 78%;
+  left: 16%;
+  transform: rotate(280deg);
+}
+.s--30 {
+  top: 72%;
+  left: 24%;
+  transform: rotate(300deg);
+}
+.s--31 {
+  top: 74%;
+  left: 21%;
+  transform: rotate(310deg);
+}
+.s--32 {
+  top: 72%;
+  left: 20%;
+  transform: rotate(90deg);
+}
+.s--33 {
+  top: 75%;
+  left: 33%;
+  transform: rotate(70deg);
+}
+.s--34 {
+  top: 79%;
+  left: 31%;
+  transform: rotate(90deg);
+}
+.s--35 {
+  top: 82%;
+  left: 26%;
+  transform: rotate(340deg);
+}
+.s--36 {
+  top: 87%;
+  left: 24%;
+  transform: rotate(70deg);
+}
+.s--37 {
+  top: 91%;
+  left: 26%;
+  transform: rotate(90deg);
+}
+.s--38 {
+  top: 78%;
+  left: 42%;
+  transform: rotate(80deg);
+}
+.s--39 {
+  top: 88%;
+  left: 40%;
+  transform: rotate(320deg);
+}
+.s--40 {
+  top: 81%;
+  left: 56%;
+  transform: rotate(80deg);
+}
+.s--41 {
+  top: 79%;
+  left: 52%;
+  transform: rotate(350deg);
+}
+.s--42 {
+  top: 68%;
+  left: 62%;
+  transform: rotate(330deg);
+}
+.s--43 {
+  top: 71%;
+  left: 65%;
+  transform: rotate(320deg);
+}
+.s--44 {
+  top: 69%;
+  left: 73%;
+  transform: rotate(330deg);
+}
+.s--45 {
+  top: 69%;
+  left: 82%;
+  transform: rotate(20deg);
+}
+.s--46 {
+  top: 67%;
+  left: 77%;
+}
+.s--47 {
+  top: 81%;
+  left: 66%;
+}
+.s--48 {
+  top: 81%;
+  left: 71%;
+  transform: rotate(50deg);
+}
+.s--49 {
+  top: 86%;
+  left: 67%;
+  transform: rotate(30deg);
+}
+.s--50 {
+  top: 50%;
+  left: 85%;
+  transform: rotate(70deg);
+}
+.s--51 {
+  top: 36%;
+  left: 72%;
+  transform: rotate(300deg);
+}
+.s--52 {
+  top: 34%;
+  left: 78%;
+  transform: rotate(70deg);
+}
+.s--53 {
+  top: 39%;
+  left: 77%;
+  transform: rotate(110deg);
+}
+.s--54 {
+  top: 35%;
+  left: 68%;
+  transform: rotate(50deg);
+}
 /* --- Sprinle Set Up --- */
 .sprinkle {
   position: absolute;
+}
+.xs {
+  width: 2%;
+  height: 3%;
+  border-radius: 40%;
 }
 .small {
   width: 2%;
