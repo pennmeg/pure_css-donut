@@ -1,5 +1,4 @@
-# Pure CSS Challenge: Donut with Sprinkles
-## Plus Javascript !
+# Pure CSS (+ JavaScript) Challenge: Donut with Sprinkles
 
 ![Final Version: Donut with Sprinks](pure_css-donut.png)
 
