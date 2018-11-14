@@ -1,5 +1,7 @@
 # Pure CSS Challenge: Donut with Sprinkles
 
+![Final Version: Donut with Sprinks](pure_css-donut.png)
+
 November 13-14, 2018 
 
 ## Other Pure CSS Images
