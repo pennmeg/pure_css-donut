@@ -43,7 +43,7 @@
   transform: rotate(70deg);
 }
 .s--10 {
-  top: 24%;
+  top: 25%;
   left: 34%;
   transform: rotate(310deg);
 }
@@ -352,7 +352,88 @@
   top: 16%;
   left: 62%;
   transform: rotate(340deg);
-
+}
+.s--73 {
+  top: 23%;
+  left: 55%;
+}
+.s--74 {
+  top: 25%;
+  left: 47%;
+  transform: rotate(310deg);
+}
+.s--75 {
+  top: 22%;
+  left: 48%;
+  transform: rotate(310deg);
+}
+.s--76 {
+  top: 19%;
+  left: 49%;
+  transform: rotate(300deg);
+}
+.s--77 {
+  top: 19%;
+  left: 51%;
+  transform: rotate(300deg);
+}
+.s--78 {
+  top: 15%;
+  left: 50%;
+  transform: rotate(310deg);
+}
+.s--79 {
+  top: 14%;
+  left: 54%;
+  transform: rotate(40deg);
+}
+.s--80 {
+  top: 13%;
+  left: 42%;
+  transform: rotate(50deg);
+}
+.s--81 {
+  top: 21%;
+  left: 38%;
+  transform: rotate(20deg);
+}
+.s--82 {
+  top: 19%;
+  left: 36%;
+  transform: rotate(20deg);
+}
+.s--83 {
+  top: 15%;
+  left: 34%;
+  transform: rotate(340deg);
+}
+.s--84 {
+  top: 14%;
+  left: 36%;
+}
+.s--85 {
+  top: 9%;
+  left: 34%;
+  transform: rotate(250deg);
+}
+.s--86 {
+  top: 6%;
+  left: 33%;
+}
+.s--87 {
+  top: 7%;
+  left: 37%;
+  transform: rotate(300deg);
+}
+.s--88 {
+  top: 14%;
+  left: 30%;
+  transform: rotate(320deg);
+}
+.s--89 {
+  top: 14%;
+  left: 28%;
+  transform: rotate(320deg);
 }
 /* --- Sprinle Set Up --- */
 .sprinkle {
