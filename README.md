@@ -1,10 +1,10 @@
-# Pure CSS (+ JavaScript) Challenge: Donut with Sprinkles
+# Pure CSS Challenge: With JavaScript and CSS Animations
 
 ![Final Version: Donut with Sprinks](pure_css-donut.png)
 
 November 13-14, 2018 | Decided to practice CSS Animations and Javascipt
 
-When you press the "Add Sprinkles" button, there are sprinkles dropped onto the donut
+Click "Add Sprinkles" to see sprinkles drop on the donut! (video: https://drive.google.com/file/d/1xY5utxrHCfKQKaBiKIP1U9Osy6A_kc6r/view)
 
 ## Other Pure CSS Images
 * https://github.com/pennmeg/pure_css_desk-flatlay
