@@ -4,9 +4,29 @@ body {
 }
 #box {
   position: relative;
-  margin: 4em auto;
+  margin: 3em auto;
   height: 30em;
   width: 30em;
+}
+#button--holder {
+  display: flex;
+  justify-content: center;
+}
+#button--sprinkles {
+  height: 3em;
+  width: 10em;
+  color: white;
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: rgb(114,179,229);
+  border: 3px solid white;
+  transition: color .25s ease-in-out, background-color .25s ease-in-out;
+}
+#button--sprinkles:hover,
+#button--sprinkles:focus {
+  color: rgb(114,179,229);
+  background-color: white;
 }
 /* --- Donut and Icing --- */
 .donut {

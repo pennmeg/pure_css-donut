@@ -435,9 +435,10 @@
   left: 28%;
   transform: rotate(320deg);
 }
-/* --- Sprinle Set Up --- */
+/* --- Sprinkle Set Up --- */
 .sprinkle {
   position: absolute;
+  display: none;
 }
 .xs {
   width: 2%;
