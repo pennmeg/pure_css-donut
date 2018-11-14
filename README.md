@@ -1,6 +1,6 @@
 # Pure CSS Challenge: Donut with Sprinkles
 
-November 13, 2018 
+November 13-14, 2018 
 
 ## Other Pure CSS Images
 * https://github.com/pennmeg/pure_css_desk-flatlay
